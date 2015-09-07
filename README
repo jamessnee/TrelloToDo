@@ -1,0 +1,9 @@
+A super simple example of using the py-trello [0] python wrapper around the Trello
+API [1] to scrape 'TODO' tags from a file and fill a ToDo board with a list for
+each new ToDo item.
+
+The current ToDo board defaults to being called 'Thesis ToDo' (guess what I'm
+doing).
+
+[0] https://github.com/sarumont/py-trello
+[1] https://trello.com/docs/
