@@ -5,5 +5,9 @@ each new ToDo item.
 The current ToDo board defaults to being called 'Thesis ToDo' (guess what I'm
 doing).
 
+Usage: You must have py-trello installed (super simple) and have a creds.txt
+file in the same dir as this script. The creds.txt must contain the credentials
+necessary for py-trello to work.
+
 [0] https://github.com/sarumont/py-trello
 [1] https://trello.com/docs/
